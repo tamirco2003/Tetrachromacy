@@ -12,12 +12,21 @@ The item, Tetrachromacy, lets you shoot in all directions! While also adding a s
 The item is found in treasure and angel rooms, both in normal and greed mode.
 
 Synergises with a buttload of items that include:
+
 Brimstone
+
 Technology
+
 The Ludovico Technique
+
 My Reflection
+
 Tiny Planet
+
 Mutant Spider
+
 20/20
+
 The Inner Eye
+
 and more!
